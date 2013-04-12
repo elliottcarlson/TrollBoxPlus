@@ -112,8 +112,9 @@ var inject = '(' + function() {
                     }
                     break;
                 case 'announce':
-                    $('#nChatInput').val('I am using TrollBox+ Chat Extension for Chrome. Available at http://git.io/TrollBoxPlus');
+                    $('#nChatInput').val('I am using TrollBox+ Chat Extension for Chrome. Available at git.io/TrollBoxPlus');
                     nChatSendMsg();
+                    break;
                 case 'help':
                 default:
                     logToChat('Available commands:');
