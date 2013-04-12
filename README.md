@@ -14,14 +14,14 @@ Install
 
 From pre-packaged extension aka Easy Intall Mode:
 
- - Download the packaged extension here:  .
- - Go to Cromhes extensions manager, e.g. chrome://extensions/
+ - [Download the packaged extension here](https://github.com/elliottcarlson/TrollBoxPlus/blob/master/TrollBoxPlus.crx)
+ - Go to Cromhes extensions manager, e.g. [chrome://extensions/](chrome://extensions/)
  - Drag and drop the extension on to your browser window
  - Refresh BTC-e.com to load TrollBox+
 
 From cloned source aka Slightly More Advanced Install Mode:
 
- - Go to Chromes extensions manager, e.g. chrome://extensions/
+ - Go to Chromes extensions manager, e.g. [chrome://extensions/](chrome://extensions/)
  - Enable developer mode.
  - Click "Load Unpacked Extension"
  - Browse to the source directory
@@ -31,4 +31,5 @@ Donations
 =========
 
 Litecoin: LY9bJTq8WSwaBCY2LxQpiJNT4UqfaYojYZ
+
 Bitcoin: 1TPVU9Zym3QopnV4ZFTCLk2RtemxDvv7L
