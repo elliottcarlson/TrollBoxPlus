@@ -15,7 +15,7 @@ Install
 From pre-packaged extension aka Easy Intall Mode:
 
  - [Download the packaged extension here](https://github.com/elliottcarlson/TrollBoxPlus/blob/master/TrollBoxPlus.crx?raw=true)
- - Go to Cromhes extensions manager, e.g. [chrome://extensions/](chrome://extensions/)
+ - Go to Chromes extensions manager, e.g. [chrome://extensions/](chrome://extensions/)
  - Drag and drop the extension on to your browser window
  - Refresh BTC-e.com to load TrollBox+
 
