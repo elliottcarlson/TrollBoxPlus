@@ -1,0 +1,19 @@
+
+    "name": "TrollBox+",
+    "version": "1.337",
+    "manifest_version": 2,
+
+    "description": "TrollBox+ adds ignore, disabling of images, staring users and other functionality to the btc-e.com
+trollbox.",
+    "icons": {
+        "48": "logo.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": [ "https://btc-e.com/*"],
+            "js": [ "trollboxplus.js" ],
+            "run_at": "document_end"
+        }
+    ]
+}
